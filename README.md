@@ -1,3 +1,3 @@
-# coronavirus_rest_api_flutter_course
+# flutter_corona_tracker
 
 Simple corona cases tracker app for learning how to handle APIs
